@@ -2,7 +2,7 @@
 title: Nintex the bad the ugly the good I guess
 path: /nintex-good-bad-ugly
 date: 2019-03-11
-summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic rerum earum quos explicabo suscipit maxime iste qui nihil. Reiciendis asperiores minus necessitatibus
+summary: Nintex offers potentially a lot - but my experience is that its at it creates at least as many problems as solutions
 tags: ['nintex', 'review']
 ---
 
