@@ -3,7 +3,7 @@
     <section class="text-gray-700 body-font">
   <div class="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
     <div class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
-      <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">Remember do good.
+      <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">The gift of time.
       </h1>
       <p class="mb-8 leading-relaxed">We want to spend our time on the stuff that matters, with the people that matter. What we do is to help you use technology, both the computer kind, the people kind and the thinking kind to do good.</p>
       <div class="flex justify-center">
@@ -33,7 +33,7 @@
             <h2 class="text-gray-900 text-lg title-font font-medium">The Digital Kind</h2>
           </div>
           <div class="flex-grow">
-            <p class="leading-relaxed text-base">If its enterprise collaboration we'll be using Microsoft, if its websites they will use a CMS and be static and we've more than a passing interest in accessibility, ML, Fintech and Security . </p>
+            <p class="leading-relaxed text-base">In the enterprise we'll be using Microsoft, if its websites then they will be static along with accessibility, ML, Fintech and Security. </p>
             <a class="mt-3 text-indigo-500 inline-flex items-center">Learn More
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                 <path d="M5 12h14M12 5l7 7-7 7"></path>
