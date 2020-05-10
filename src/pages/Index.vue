@@ -5,7 +5,7 @@
     <div class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
       <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">The gift of time.
       </h1>
-      <p class="mb-8 leading-relaxed">We want to spend our time on the stuff that matters, with the people that matter. What we do is to help you use technology, both the computer kind, the people kind and the thinking kind to do good.</p>
+      <p class="mb-8 leading-relaxed">You want to spend our time on the stuff that matters, with the people that matter, so what we do is to help you use technology, both the computer kind, the people kind and the thinking kind so that you can.</p>
       <div class="flex justify-center">
         <button class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Button</button>
 
@@ -33,7 +33,7 @@
             <h2 class="text-gray-900 text-lg title-font font-medium">The Digital Kind</h2>
           </div>
           <div class="flex-grow">
-            <p class="leading-relaxed text-base">In the enterprise we'll be using Microsoft, if its websites then they will be static along with accessibility, ML, Fintech and Security. </p>
+            <p class="leading-relaxed text-base">In the enterprise its Microsoft, if its websites then they will be static along with accessibility, ML, Fintech and Security. </p>
             <a class="mt-3 text-indigo-500 inline-flex items-center">Learn More
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                 <path d="M5 12h14M12 5l7 7-7 7"></path>
@@ -175,15 +175,15 @@
   <div class="container px-5 py-24 mx-auto">
     <div class="flex flex-col text-center w-full mb-20">
       <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">Our Team</h1>
-      <p class="lg:w-2/3 mx-auto leading-relaxed text-base">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table. Franzen you probably haven't heard of them.</p>
+      <p class="lg:w-2/3 mx-auto leading-relaxed text-base">We are a diverse team that are united by a desire to do the right thing, with a belief that technology should be a force for good in the world  </p>
     </div>
     <div class="flex flex-wrap -m-2">
       <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
         <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
           <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/80x80/edf2f7/a5afbd">
           <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">Holden Caulfield</h2>
-            <p class="text-gray-500">UI Designer</p>
+            <h2 class="text-gray-900 title-font font-medium">Neville A</h2>
+            <p class="text-gray-500">Founder</p>
           </div>
         </div>
       </div>
@@ -191,7 +191,7 @@
         <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
           <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/84x84/edf2f7/a5afbd">
           <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">Henry Letham</h2>
+            <h2 class="text-gray-900 title-font font-medium">Alex T</h2>
             <p class="text-gray-500">CTO</p>
           </div>
         </div>
@@ -200,8 +200,8 @@
         <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
           <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/88x88/edf2f7/a5afbd">
           <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">Oskar Blinde</h2>
-            <p class="text-gray-500">Founder</p>
+            <h2 class="text-gray-900 title-font font-medium">Jake H</h2>
+            <p class="text-gray-500">Solutions</p>
           </div>
         </div>
       </div>
@@ -209,8 +209,8 @@
         <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
           <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/90x90/edf2f7/a5afbd">
           <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">John Doe</h2>
-            <p class="text-gray-500">DevOps</p>
+            <h2 class="text-gray-900 title-font font-medium">Michelle M</h2>
+            <p class="text-gray-500">Councillor</p>
           </div>
         </div>
       </div>
@@ -218,8 +218,8 @@
         <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
           <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/94x94/edf2f7/a5afbd">
           <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">Martin Eden</h2>
-            <p class="text-gray-500">Software Engineer</p>
+            <h2 class="text-gray-900 title-font font-medium">Daniel S</h2>
+            <p class="text-gray-500">Business Accessibility</p>
           </div>
         </div>
       </div>
@@ -227,35 +227,8 @@
         <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
           <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/98x98/edf2f7/a5afbd">
           <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">Boris Kitua</h2>
-            <p class="text-gray-500">UX Researcher</p>
-          </div>
-        </div>
-      </div>
-      <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
-        <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-          <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/100x90/edf2f7/a5afbd">
-          <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">Atticus Finch</h2>
-            <p class="text-gray-500">QA Engineer</p>
-          </div>
-        </div>
-      </div>
-      <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
-        <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-          <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/104x94/edf2f7/a5afbd">
-          <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">Alper Kamu</h2>
-            <p class="text-gray-500">System</p>
-          </div>
-        </div>
-      </div>
-      <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
-        <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-          <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/108x98/edf2f7/a5afbd">
-          <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">Rodrigo Monchi</h2>
-            <p class="text-gray-500">Product Manager</p>
+            <h2 class="text-gray-900 title-font font-medium">Victoria A</h2>
+            <p class="text-gray-500">Voice of Reason</p>
           </div>
         </div>
       </div>
@@ -291,7 +264,7 @@
                           Name
                       </label>
 
-                      <input type="text" name="name" id="name" placeholder="Jon Snow" class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none focus:border-green-700 mb-2 p-4" required>
+                      <input type="text" name="name" id="name" placeholder="Jon Snow" class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none focus:border-gold-500 mb-2 p-4" required>
                   </div>
 
                   <div class="w-full px-4 md:w-1/2">
@@ -299,7 +272,7 @@
                           Email Address
                       </label>
 
-                      <input type="email" name="email" id="email" placeholder="email@example.com"  class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none focus:border-green-700 mb-2 p-4" required>
+                      <input type="email" name="email" id="email" placeholder="email@example.com"  class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none focus:border-gold-500 mb-2 p-4" required>
                   </div>
               </div>
 
@@ -308,11 +281,11 @@
                       Message
                   </label>
 
-                  <textarea id="message" rows="5" name="message" class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none appearance-none focus:border-green-700 mb-2 px-4 py-4" placeholder="Enter your message here." required></textarea>
+                  <textarea id="message" rows="5" name="message" class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none appearance-none focus:border-gold-500 mb-2 px-4 py-4" placeholder="Enter your message here." required></textarea>
               </div>
 
               <div class="flex justify-end w-full">
-                  <input type="submit" value="Submit" class="block bg-green-700 hover:bg-green-800 text-white text-sm font-semibold tracking-wide uppercase shadow rounded cursor-pointer px-6 py-3">
+                  <input type="submit" value="Submit" class="block bg-gold-500 hover:bg-gold-800 text-white text-sm font-semibold tracking-wide uppercase shadow rounded cursor-pointer px-6 py-3">
               </div>
           </form>
           </div>
@@ -329,8 +302,8 @@
 
           <form action="#">
             <div class="flex flex-col sm:flex-row">
-              <input type="email" name="email" placeholder="Your email address" class="flex-1 bg-background-form rounded sm:rounded-r-none px-4 py-4 leading-normal border border-border-color-primary sm:border-r-0 shadow outline-none focus:border-green-700 z-10" required>
-              <button data-element="submit" class="flex-2 w-40 uppercase bg-green-700 text-white rounded sm:rounded-l-none text-lg py-3 px-8 tracking-wide shadow focus:outline-none hover:bg-green-800 focus:bg-green-800 z-10 w-full sm:w-auto mt-4 sm:mt-0">
+              <input type="email" name="email" placeholder="Your email address" class="flex-1 bg-background-form rounded sm:rounded-r-none px-4 py-4 leading-normal border border-border-color-primary sm:border-r-0 shadow outline-none focus:border-gold-500 z-10" required>
+              <button data-element="submit" class="flex-2 w-40 uppercase bg-gold-500 text-white rounded sm:rounded-l-none text-lg py-3 px-8 tracking-wide shadow focus:outline-none hover:bg-gold-800 focus:bg-gold-800 z-10 w-full sm:w-auto mt-4 sm:mt-0">
                 <span>Subscribe</span>
               </button>
             </div>

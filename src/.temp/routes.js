@@ -19,10 +19,6 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--post-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/templates/Post.vue")
   },
   {
-    path: "/vue-vs-react-comparison/",
-    component: () => import(/* webpackChunkName: "page--src--templates--post-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/templates/Post.vue")
-  },
-  {
     path: "/nintex-good-bad-ugly/",
     component: () => import(/* webpackChunkName: "page--src--templates--post-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/templates/Post.vue")
   },
@@ -31,9 +27,13 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--pages--docs-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/pages/Docs.vue")
   },
   {
+    path: "/Teams-usability-how-accessible/",
+    component: () => import(/* webpackChunkName: "page--src--templates--post-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/templates/Post.vue")
+  },
+  {
     name: "404",
     path: "/404/",
-    component: () => import(/* webpackChunkName: "page--src--pages--404-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/pages/404.vue")
+    component: () => import(/* webpackChunkName: "page--node-modules--gridsome--app--pages--404-vue" */ "/Users/nattkins/Documents/github/Bravo2/node_modules/gridsome/app/pages/404.vue")
   },
   {
     name: "home",
@@ -43,7 +43,7 @@ export default [
   {
     name: "*",
     path: "*",
-    component: () => import(/* webpackChunkName: "page--src--pages--404-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/pages/404.vue")
+    component: () => import(/* webpackChunkName: "page--node-modules--gridsome--app--pages--404-vue" */ "/Users/nattkins/Documents/github/Bravo2/node_modules/gridsome/app/pages/404.vue")
   }
 ]
 
