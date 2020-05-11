@@ -3,23 +3,24 @@
     <section class="text-gray-700 body-font">
   <div class="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
     <div class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
-      <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">The gift of time.
+      <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">Listening, asking questions
+        <br class="hidden lg:inline-block">and sharing resources.
       </h1>
-      <p class="mb-8 leading-relaxed">You want to spend our time on the stuff that matters, with the people that matter, so what we do is to help you use technology, both the computer kind, the people kind and the thinking kind so that you can.</p>
+      <p class="mb-8 leading-relaxed">Its our recipe for making a success of organizational challenges</p>
       <div class="flex justify-center">
-        <button class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Button</button>
+        <button class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Reach out</button>
 
       </div>
     </div>
     <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-      <img class="object-cover object-center rounded" alt="hero" src="https://dummyimage.com/720x600/edf2f7/a5afbd">
+            <g-image class="object-cover object-center rounded" width="500" alt="hero" src="~/assets/images/clock.png/" />
     </div>
   </div>
 </section>
     <section class="text-gray-700 body-font border-t border-gray-200">
   <div class="container px-5 py-24 mx-auto">
     <div class="flex flex-col text-center w-full mb-20">
-      <h1 class="sm:text-3xl text-2xl font-medium title-font text-gray-900">The Technologies we work with</h1>
+      <h1 class="sm:text-3xl text-2xl font-medium title-font text-gray-900">The Shared Resources </h1>
     </div>
     <div class="flex flex-wrap -m-4">
       <div class="p-4 md:w-1/3">
@@ -30,10 +31,10 @@
                 <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
               </svg>
             </div>
-            <h2 class="text-gray-900 text-lg title-font font-medium">The Digital Kind</h2>
+            <h2 class="text-gray-900 text-lg title-font font-medium">Digital</h2>
           </div>
           <div class="flex-grow">
-            <p class="leading-relaxed text-base">In the enterprise its Microsoft, if its websites then they will be static along with accessibility, ML, Fintech and Security. </p>
+            <p class="leading-relaxed text-base">In the enterprise its Microsoft, if its websites then they will be static but also we're all about accessibility, ML, Web 3.0 and Security. </p>
             <a class="mt-3 text-indigo-500 inline-flex items-center">Learn More
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                 <path d="M5 12h14M12 5l7 7-7 7"></path>
@@ -51,10 +52,10 @@
                 <circle cx="12" cy="7" r="4"></circle>
               </svg>
             </div>
-            <h2 class="text-gray-900 text-lg title-font font-medium">The People Kind</h2>
+            <h2 class="text-gray-900 text-lg title-font font-medium">People</h2>
           </div>
           <div class="flex-grow">
-            <p class="leading-relaxed text-base">These are technologies like liberating structures to make meetings get to the good, to listen we use a little clean language. </p>
+            <p class="leading-relaxed text-base">Many hands make light work, but many cooks... so we teach liberating structures and clean language, can get the most out of working together.</p>
             <a class="mt-3 text-indigo-500 inline-flex items-center">Learn More
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                 <path d="M5 12h14M12 5l7 7-7 7"></path>
@@ -73,7 +74,7 @@
                 <path d="M20 4L8.12 15.88M14.47 14.48L20 20M8.12 8.12L12 12"></path>
               </svg>
             </div>
-            <h2 class="text-gray-900 text-lg title-font font-medium">The Thinking kind</h2>
+            <h2 class="text-gray-900 text-lg title-font font-medium">Thinking</h2>
           </div>
           <div class="flex-grow">
             <p class="leading-relaxed text-base">Stoticism keeps us out of the sun, Hedonic Sustainability keeps things fun, and agile project managment is how we run. </p>
@@ -93,8 +94,9 @@
           <section class="text-gray-700 body-font border-t border-gray-200">
   <div class="container px-5 py-24 mx-auto">
     <div class="flex flex-wrap w-full mb-20 flex-col items-center text-center">
-      <h1 class="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900">Projects </h1>
+      <h1 id="projects" class="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900">Projects </h1>
       <p class="lg:w-1/2 w-full leading-relaxed text-base">At Bravo Criteria working remotely is our everyday, so one of the few benefits of covid-19, for us, is that we don't have to explain the benefits of this way of working to anyone anymore ever.</p>
+                  <g-image class="object-cover object-center rounded" width="500" alt="hero" src="~/assets/images/world.png/" />
     </div>
     <div class="flex flex-wrap -m-4">
       <div class="xl:w-1/3 md:w-1/2 p-4">
@@ -104,8 +106,8 @@
               <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
             </svg>
           </div>
-          <h2 class="text-lg text-gray-900 font-medium title-font mb-2">New York - London - Madrid</h2>
-          <p class="leading-relaxed text-base">For global media company with offices in New York to create sensible intranet governance for all their different brands</p>
+          <h2 class="text-lg text-gray-900 font-medium title-font mb-2">New York - London - Melbourne</h2>
+          <p class="leading-relaxed text-base">We created a sensible, intranet governance plan for an international media company, that was easy to communicate and sustainable long term.</p>
         </div>
       </div>
       <div class="xl:w-1/3 md:w-1/2 p-4">
@@ -117,8 +119,8 @@
               <path d="M20 4L8.12 15.88M14.47 14.48L20 20M8.12 8.12L12 12"></path>
             </svg>
           </div>
-          <h2 class="text-lg text-gray-900 font-medium title-font mb-2">The Catalyzer</h2>
-          <p class="leading-relaxed text-base">Fingerstache flexitarian street art 8-bit waist co, subway tile poke farm.</p>
+          <h2 class="text-lg text-gray-900 font-medium title-font mb-2">London - Munich - Madrid</h2>
+          <p class="leading-relaxed text-base">We created a cross European network of collaboration, accomodating different working practices, project management processes and attitudes to security. </p>
         </div>
       </div>
       <div class="xl:w-1/3 md:w-1/2 p-4">
@@ -129,8 +131,8 @@
               <circle cx="12" cy="7" r="4"></circle>
             </svg>
           </div>
-          <h2 class="text-lg text-gray-900 font-medium title-font mb-2">Neptune</h2>
-          <p class="leading-relaxed text-base">Fingerstache flexitarian street art 8-bit waist co, subway tile poke farm.</p>
+          <h2 class="text-lg text-gray-900 font-medium title-font mb-2">Global</h2>
+          <p class="leading-relaxed text-base">A world-wide ratings agency required a suite of integrated tools to enable insight and collaboration where there previously had been none.</p>
         </div>
       </div>
       <div class="xl:w-1/3 md:w-1/2 p-4">
@@ -140,8 +142,8 @@
               <path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1zM4 22v-7"></path>
             </svg>
           </div>
-          <h2 class="text-lg text-gray-900 font-medium title-font mb-2">Melanchole</h2>
-          <p class="leading-relaxed text-base">Fingerstache flexitarian street art 8-bit waist co, subway tile poke farm.</p>
+          <h2 class="text-lg text-gray-900 font-medium title-font mb-2">London - Bucharest</h2>
+          <p class="leading-relaxed text-base">Used liberating structure workshops to provide new facilitation techniques to enhance the skills of those trying to solve complex challenges..</p>
         </div>
       </div>
       <div class="xl:w-1/3 md:w-1/2 p-4">
@@ -151,8 +153,8 @@
               <path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"></path>
             </svg>
           </div>
-          <h2 class="text-lg text-gray-900 font-medium title-font mb-2">Bunker</h2>
-          <p class="leading-relaxed text-base">Fingerstache flexitarian street art 8-bit waist co, subway tile poke farm.</p>
+          <h2 class="text-lg text-gray-900 font-medium title-font mb-2">Melbourne - London</h2>
+          <p class="leading-relaxed text-base">Performing remote security auditing of numerous payroll undocumented and unsuported solutions, to ensure that they coud be migrated as part of global rollout</p>
         </div>
       </div>
       <div class="xl:w-1/3 md:w-1/2 p-4">
@@ -162,17 +164,17 @@
               <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
             </svg>
           </div>
-          <h2 class="text-lg text-gray-900 font-medium title-font mb-2">Ramona Falls</h2>
-          <p class="leading-relaxed text-base">Fingerstache flexitarian street art 8-bit waist co, subway tile poke farm.</p>
+          <h2 class="text-lg text-gray-900 font-medium title-font mb-2">London - Hong Kong</h2>
+          <p class="leading-relaxed text-base">For a team of auditors of the whole APAC region, facilitated the requirements and design of a tool to manage the collection of thousands of reports.</p>
         </div>
       </div>
     </div>
-    <button class="flex mx-auto mt-16 text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">Button</button>
+
   </div>
 </section>
 
 <section class="text-gray-700 body-font border-t border-gray-200">
-  <div class="container px-5 py-24 mx-auto">
+  <div id="team" class="container px-5 py-24 mx-auto">
     <div class="flex flex-col text-center w-full mb-20">
       <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">Our Team</h1>
       <p class="lg:w-2/3 mx-auto leading-relaxed text-base">We are a diverse team that are united by a desire to do the right thing, with a belief that technology should be a force for good in the world  </p>
@@ -249,10 +251,6 @@
       <div class="contact-me bg-background-secondary pt-16">
         <div class="container-inner mx-auto text-xl pb-4 relative">
           <h2 class="font-bold mb-6" id="contact">Contact Us:</h2>
-
-          <div class="absolute right-0 top-0" style="transform: translate(100%) rotate(180deg)">
-            <svg width="170px" height="170px"><use xlink:href="#dots-triangle" /></svg>
-          </div>
 
           <p class="mb-12">Static sites cannot submit forms on their own. However, services like <a href="https://www.netlify.com/docs/form-handling">Netlify Forms</a> or <a href="https://formspree.io">FormSpree</a> can help you do this without a backend.</p>
 

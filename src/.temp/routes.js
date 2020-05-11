@@ -4,19 +4,57 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--tag-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/templates/Tag.vue")
   },
   {
-    path: "/docs/vue-components-in-markdown/",
+    path: "/docs/why-we-work/",
     component: () => import(/* webpackChunkName: "page--src--templates--documentation-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/templates/Documentation.vue"),
     meta: {
-      $vueRemark: () => import(/* webpackChunkName: "vue-remark--docs--vue-components-in-markdown-md" */ "/Users/nattkins/Documents/github/Bravo2/docs/vue-components-in-markdown.md")
+      $vueRemark: () => import(/* webpackChunkName: "vue-remark--docs--why-we-work-md" */ "/Users/nattkins/Documents/github/Bravo2/docs/why-we-work.md")
+    }
+  },
+  {
+    path: "/docs/skills-matrix/",
+    component: () => import(/* webpackChunkName: "page--src--templates--documentation-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/templates/Documentation.vue"),
+    meta: {
+      $vueRemark: () => import(/* webpackChunkName: "vue-remark--docs--skills-matrix-md" */ "/Users/nattkins/Documents/github/Bravo2/docs/skills-matrix.md")
+    }
+  },
+  {
+    path: "/docs/how-we-work/",
+    component: () => import(/* webpackChunkName: "page--src--templates--documentation-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/templates/Documentation.vue"),
+    meta: {
+      $vueRemark: () => import(/* webpackChunkName: "vue-remark--docs--how-we-work-md" */ "/Users/nattkins/Documents/github/Bravo2/docs/how-we-work.md")
+    }
+  },
+  {
+    path: "/docs/government-experience/",
+    component: () => import(/* webpackChunkName: "page--src--templates--documentation-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/templates/Documentation.vue"),
+    meta: {
+      $vueRemark: () => import(/* webpackChunkName: "vue-remark--docs--government-experience-md" */ "/Users/nattkins/Documents/github/Bravo2/docs/government-experience.md")
+    }
+  },
+  {
+    path: "/docs/digital-tech-portfolio/",
+    component: () => import(/* webpackChunkName: "page--src--templates--documentation-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/templates/Documentation.vue"),
+    meta: {
+      $vueRemark: () => import(/* webpackChunkName: "vue-remark--docs--digital-tech-portfolio-md" */ "/Users/nattkins/Documents/github/Bravo2/docs/digital-tech-portfolio.md")
+    }
+  },
+  {
+    path: "/docs/about-forms/",
+    component: () => import(/* webpackChunkName: "page--src--templates--documentation-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/templates/Documentation.vue"),
+    meta: {
+      $vueRemark: () => import(/* webpackChunkName: "vue-remark--docs--about-forms-md" */ "/Users/nattkins/Documents/github/Bravo2/docs/about-forms.md")
+    }
+  },
+  {
+    path: "/docs/about-migrations/",
+    component: () => import(/* webpackChunkName: "page--src--templates--documentation-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/templates/Documentation.vue"),
+    meta: {
+      $vueRemark: () => import(/* webpackChunkName: "vue-remark--docs--about-migrations-md" */ "/Users/nattkins/Documents/github/Bravo2/docs/about-migrations.md")
     }
   },
   {
     path: "/blog/:page(\\d+)?/",
     component: () => import(/* webpackChunkName: "page--src--pages--blog-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/pages/Blog.vue")
-  },
-  {
-    path: "/what-i-ate-for-breakfast/",
-    component: () => import(/* webpackChunkName: "page--src--templates--post-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/templates/Post.vue")
   },
   {
     path: "/nintex-good-bad-ugly/",

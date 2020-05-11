@@ -3,7 +3,7 @@
     <header class="border-t-14 border-gold-500">
       <nav class="container mx-auto flex flex-wrap justify-between items-center py-8">
         <div>
-          <g-link v-if="theme === 'theme-light'" to="/"><g-image src="../../static/logo.svg" class="w-40" alt="logo" /></g-link>
+          <g-link v-if="theme === 'theme-light'" to="/"><g-image src="../../static/logo.svg" class="w-84 pb-2" alt="logo" /></g-link>
           <g-link v-else to="/"><g-image src="../../static/logo_dark_mode.svg" class="w-40" alt="logo" /></g-link>
         </div>
         <div class="block lg:hidden">
@@ -18,26 +18,26 @@
           <li class="mb-6 lg:mb-0">
             <search-input />
           </li>
-          <li>
+          <!-- <li>
             <theme-switcher :theme="theme" @themeChanged="updateTheme" />
-          </li>
+          </li> -->
           <li>
             <a v-if="$route.path === '/'" href="/#projects" v-scroll-to="'#projects'" class="text-copy-primary hover:text-gray-600">Projects</a>
             <g-link v-else to="/#projects" class="text-copy-primary hover:text-gray-600">Projects</g-link>
           </li>
           <li>
-            <a v-if="$route.path === '/'" href="/#about" v-scroll-to="'#about'" class="text-copy-primary hover:text-gray-600">About</a>
+            <a v-if="$route.path === '/'" href="/#team" v-scroll-to="'#team'" class="text-copy-primary hover:text-gray-600">Team</a>
             <g-link v-else to="/#about" class="text-copy-primary hover:text-gray-600">About</g-link>
           </li>
           <li>
-            <a v-if="$route.path === '/'" href="/#contact" v-scroll-to="'#contact'" class="text-copy-primary hover:text-gray-600">Contact</a>
-            <g-link v-else to="/#contact" class="text-copy-primary hover:text-gray-600">Contact</g-link>
-          </li>
-          <li>
-            <g-link to="/docs" class="text-copy-primary hover:text-gray-600">Docs</g-link>
+            <g-link to="/docs" class="text-copy-primary hover:text-gray-600">Our Resources</g-link>
           </li>
           <li>
             <g-link to="/blog" class="text-copy-primary hover:text-gray-600">Blog</g-link>
+          </li>
+            <li>
+            <a v-if="$route.path === '/'" href="/#contact" v-scroll-to="'#contact'" class="text-copy-primary hover:text-gray-600">Contact</a>
+            <g-link v-else to="/#contact" class="text-copy-primary hover:text-gray-600">Contact</g-link>
           </li>
         </ul>
       </nav>
