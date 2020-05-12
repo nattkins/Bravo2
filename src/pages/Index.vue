@@ -253,8 +253,13 @@
           <p class="mb-12">Let us know what you think, ask us how we can help or just say hello</p>
 
           <div class="text-lg sm:text-lg mb-16">
-            <form name="reachout" action="#" class="mb-12" netlify>
-              <input type="hidden" name="reachout" value="contact" />
+            <form name="reachout" action="#" class="mb-12" 
+               method="post"
+    data-netlify="true"
+    data-netlify-honeypot="bot-field"
+    />
+    <input type="hidden" name="reachout" value="askus" />
+
               <div class="flex flex-wrap mb-6 -mx-4">
                   <div class="w-full md:w-1/2 mb-6 md:mb-0 px-4">
                       <label class="block mb-2 text-copy-primary" for="name">
