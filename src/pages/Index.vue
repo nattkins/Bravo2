@@ -89,8 +89,6 @@
     </div>
   </div>
 </section>
-
-    
           <section class="text-gray-700 body-font border-t border-gray-200">
   <div class="container px-5 py-24 mx-auto">
     <div class="flex flex-wrap w-full mb-20 flex-col items-center text-center">
@@ -256,6 +254,7 @@
 
           <div class="text-lg sm:text-lg mb-16">
             <form name="reachout" action="#" class="mb-12" netlify>
+              <input type="hidden" name="reachout" value="contact" />
               <div class="flex flex-wrap mb-6 -mx-4">
                   <div class="w-full md:w-1/2 mb-6 md:mb-0 px-4">
                       <label class="block mb-2 text-copy-primary" for="name">
