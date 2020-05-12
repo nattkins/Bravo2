@@ -258,7 +258,7 @@
     data-netlify="true"
     data-netlify-honeypot="bot-field"
     />
-    <input type="hidden" name="reachout" value="askus" />
+    <input type="hidden" name="form-name" value="reachout" />
 
               <div class="flex flex-wrap mb-6 -mx-4">
                   <div class="w-full md:w-1/2 mb-6 md:mb-0 px-4">
