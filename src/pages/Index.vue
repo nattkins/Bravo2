@@ -257,7 +257,7 @@
                method="post"
     data-netlify="true"
     data-netlify-honeypot="bot-field"
-    />
+    >
     <input type="hidden" name="form-name" value="reachout" />
 
               <div class="flex flex-wrap mb-6 -mx-4">
