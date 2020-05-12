@@ -8,7 +8,7 @@
       </h1>
       <p class="mb-8 leading-relaxed">Right now is when our best technology, thinking and ways of working should be helping to solve the problems of these unprecedented times.</p>
       <div class="flex justify-center">
-        <button class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Reach out</button>
+          <g-link to="/#reachout" class="text-copy-primary hover:text-gray-600"> <button class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Reach out</button></g-link>
 
       </div>
     </div>
@@ -248,14 +248,14 @@
     </div>
 
     <div class="overflow-x-hidden">
-      <div class="contact-me bg-background-secondary pt-16">
+      <div  class="contact-me bg-background-secondary pt-16">
         <div class="container-inner mx-auto text-xl pb-4 relative">
-          <h2 class="font-bold mb-6" id="contact">Contact Us:</h2>
+          <h2 class="font-bold mb-6" id="reachout">Reach Out</h2>
 
-          <p class="mb-12">Static sites cannot submit forms on their own. However, services like <a href="https://www.netlify.com/docs/form-handling">Netlify Forms</a> or <a href="https://formspree.io">FormSpree</a> can help you do this without a backend.</p>
+          <p class="mb-12">Let us know what you think, ask us how we can help or just say hello</p>
 
           <div class="text-lg sm:text-lg mb-16">
-            <form action="#" class="mb-12">
+            <form name="reachout" action="#" class="mb-12" netlify>
               <div class="flex flex-wrap mb-6 -mx-4">
                   <div class="w-full md:w-1/2 mb-6 md:mb-0 px-4">
                       <label class="block mb-2 text-copy-primary" for="name">
