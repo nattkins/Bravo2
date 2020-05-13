@@ -20,7 +20,9 @@
     <section class="text-gray-700 body-font border-t border-gray-200">
   <div class="container px-5 py-24 mx-auto">
     <div class="flex flex-col text-center w-full mb-20">
-      <h1 class="sm:text-3xl text-2xl font-medium title-font text-gray-900">Our Best </h1>
+      <h1 class="sm:text-3xl text-2xl font-medium title-font text-gray-900">The Resources </h1>
+     <p class="mb-8 leading-relaxed">These are just some of the resources we draw upon to solve problems.</p>
+         
     </div>
     <div class="flex flex-wrap -m-4">
       <div class="p-4 md:w-1/3">
@@ -31,15 +33,20 @@
                 <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
               </svg>
             </div>
-            <h2 class="text-gray-900 text-lg title-font font-medium">Technology</h2>
-          </div>
+            <h2 class="text-gray-900 text-lg title-font font-medium">Digital Technology</h2>
+                </div>
           <div class="flex-grow">
             <p class="leading-relaxed text-base">In the enterprise its Microsoft, if its websites then they will be static but also we're all about accessibility, ML, Web 3.0 and Security. </p>
-            <a class="mt-3 text-indigo-500 inline-flex items-center">Learn More
+            <g-link to="/docs/digital-tech-portfolio/" class="mt-3 text-indigo-500 inline-flex items-center">Our skill Portfolio
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                 <path d="M5 12h14M12 5l7 7-7 7"></path>
               </svg>
-            </a>
+            </g-link>
+            <g-link to="/docs/skills-matrix/" class="mt-3 text-indigo-500 inline-flex items-center">Skills Matrix
+              <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
+                <path d="M5 12h14M12 5l7 7-7 7"></path>
+              </svg>
+            </g-link>
           </div>
         </div>
       </div>
@@ -55,12 +62,17 @@
             <h2 class="text-gray-900 text-lg title-font font-medium">Ways of working</h2>
           </div>
           <div class="flex-grow">
-            <p class="leading-relaxed text-base">So that many hands can make light work we use liberating structures and clean language,to get the most out of working remotely together.</p>
-            <a class="mt-3 text-indigo-500 inline-flex items-center">Learn More
+            <p class="leading-relaxed text-base">So that many hands can make light work remoately we use liberating structures and clean language.</p>
+            <g-link to="/docs/ways-to-work/"  class="mt-3 text-indigo-500 inline-flex items-center">Super Collaboration
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                 <path d="M5 12h14M12 5l7 7-7 7"></path>
               </svg>
-            </a>
+            </g-link>
+             <g-link to="/docs/how-we-work/"  class="mt-3 text-indigo-500 inline-flex items-center">Do Projects Like a Pro
+              <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
+                <path d="M5 12h14M12 5l7 7-7 7"></path>
+              </svg>
+             </g-link>
           </div>
         </div>
       </div>
@@ -74,15 +86,21 @@
                 <path d="M20 4L8.12 15.88M14.47 14.48L20 20M8.12 8.12L12 12"></path>
               </svg>
             </div>
-            <h2 class="text-gray-900 text-lg title-font font-medium">Thinking</h2>
+            <h2 class="text-gray-900 text-lg title-font font-medium">Our Miision</h2>
           </div>
           <div class="flex-grow">
-            <p class="leading-relaxed text-base">Stoticism keeps us out of rain and sun while Hedonic Sustainability keeps things fun, and agile project managment is how we run. </p>
-            <a class="mt-3 text-indigo-500 inline-flex items-center">Learn More
+            <p class="leading-relaxed text-base">How are we to grasp the opportunities of the  </p>
+            <g-link to="/docs/our-mission/" class="mt-3 text-indigo-500 inline-flex items-center">Our Mission
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                 <path d="M5 12h14M12 5l7 7-7 7"></path>
               </svg>
-            </a>
+            </g-link>
+                        <g-link to="/docs/accessibility-manifesto/" class="mt-3 text-indigo-500 inline-flex items-center">Accessibility Manifesto
+              <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
+                <path d="M5 12h14M12 5l7 7-7 7"></path>
+              </svg>
+            </g-link>
+
           </div>
         </div>
       </div>
@@ -235,15 +253,15 @@
     </div>
   </div>
 </section>
-    <div class="overflow-x-hidden border-gray-200 border-b">
+    <!-- <div class="overflow-x-hidden border-gray-200 border-b">
       <div class="get-to-know-me container-inner mx-auto text-xl pb-16 relative">
         
 
         <div class="responsive-container">
           <iframe class="responsive-iframe w-full h-full top-0 left-0 border-0" src="https://www.youtube.com/embed/uHo6o1TNQeE" style="border:0;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
-      </div> <!-- end video -->
-    </div>
+      </div> 
+    </div> -->
 
     <div class="overflow-x-hidden">
       <div  class="contact-me bg-background-secondary pt-16">
@@ -295,7 +313,7 @@
       </div> <!-- end contact-me -->
     </div>
 
-    <div class="newsletter bg-background-tertiary">
+    <!-- <div class="newsletter bg-background-tertiary">
       <div class="container-inner mx-auto py-16 pb-8 text-center textl-xl">
       <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">Join Our Newsletter</h1>
 
@@ -313,7 +331,7 @@
         </div>
       </div>
 
-       </div>
+       </div> -->
 
   </Layout>
 </template>

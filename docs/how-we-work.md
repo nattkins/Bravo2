@@ -1,5 +1,5 @@
 ---
-title: How we work
+title: Do Projects like a Pro 
 excerpt: Our document and demo first approach
 ---
 

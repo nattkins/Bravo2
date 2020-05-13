@@ -1,5 +1,5 @@
 ---
-title: Digital Portfolio
+title: Technology Portfolio
 excerpt: When we're not being all touchy feely we're all about the 1 and 0
 ---
 

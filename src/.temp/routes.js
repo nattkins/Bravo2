@@ -4,10 +4,10 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--tag-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/templates/Tag.vue")
   },
   {
-    path: "/docs/why-we-work/",
+    path: "/docs/ways-to-work/",
     component: () => import(/* webpackChunkName: "page--src--templates--documentation-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/templates/Documentation.vue"),
     meta: {
-      $vueRemark: () => import(/* webpackChunkName: "vue-remark--docs--why-we-work-md" */ "/Users/nattkins/Documents/github/Bravo2/docs/why-we-work.md")
+      $vueRemark: () => import(/* webpackChunkName: "vue-remark--docs--ways-to-work-md" */ "/Users/nattkins/Documents/github/Bravo2/docs/ways-to-work.md")
     }
   },
   {
@@ -15,6 +15,13 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--documentation-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/templates/Documentation.vue"),
     meta: {
       $vueRemark: () => import(/* webpackChunkName: "vue-remark--docs--skills-matrix-md" */ "/Users/nattkins/Documents/github/Bravo2/docs/skills-matrix.md")
+    }
+  },
+  {
+    path: "/docs/our-mission/",
+    component: () => import(/* webpackChunkName: "page--src--templates--documentation-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/templates/Documentation.vue"),
+    meta: {
+      $vueRemark: () => import(/* webpackChunkName: "vue-remark--docs--our-mission-md" */ "/Users/nattkins/Documents/github/Bravo2/docs/our-mission.md")
     }
   },
   {
@@ -39,17 +46,17 @@ export default [
     }
   },
   {
-    path: "/docs/about-forms/",
-    component: () => import(/* webpackChunkName: "page--src--templates--documentation-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/templates/Documentation.vue"),
-    meta: {
-      $vueRemark: () => import(/* webpackChunkName: "vue-remark--docs--about-forms-md" */ "/Users/nattkins/Documents/github/Bravo2/docs/about-forms.md")
-    }
-  },
-  {
     path: "/docs/about-migrations/",
     component: () => import(/* webpackChunkName: "page--src--templates--documentation-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/templates/Documentation.vue"),
     meta: {
       $vueRemark: () => import(/* webpackChunkName: "vue-remark--docs--about-migrations-md" */ "/Users/nattkins/Documents/github/Bravo2/docs/about-migrations.md")
+    }
+  },
+  {
+    path: "/docs/about-forms/",
+    component: () => import(/* webpackChunkName: "page--src--templates--documentation-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/templates/Documentation.vue"),
+    meta: {
+      $vueRemark: () => import(/* webpackChunkName: "vue-remark--docs--about-forms-md" */ "/Users/nattkins/Documents/github/Bravo2/docs/about-forms.md")
     }
   },
   {

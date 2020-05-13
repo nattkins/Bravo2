@@ -1,5 +1,5 @@
 ---
-title: About migrations
+title: About Migrations
 excerpt: If you think they shouldn't be so hard then we agree.
 ---
 The problem with migrations is that it's one word containing a multitude of interpretations; for example, it might be any combination of the following:
