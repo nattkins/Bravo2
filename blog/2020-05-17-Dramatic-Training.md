@@ -27,8 +27,7 @@ Everyone has done the training thing where they had to follow along with the ste
 
 * Whiteboard 
 
-![no](./images/background.jpg)
-
+![background](./images/blog_bg_4.jpg)
 
  
 
