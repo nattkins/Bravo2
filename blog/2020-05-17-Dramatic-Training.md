@@ -6,7 +6,8 @@ summary:  You don't care to learn when there is no reason to care
 tags: ['training', 'excitement','Apollo13']
 ---
 
-
+![problem](./images/problem.jpg)
+ 
 We begin with an exciting and fun experience and a group of people. We will finish with people able to communicate, collaborate and use Office 365 technologies to solve real problems - hopefully without anyone thinking they have been training.
 
 Houston we have a problem - but we have the solution to training!
@@ -19,23 +20,28 @@ Everyone has done the training thing where they had to follow along with the ste
 
 * Channels to manage the different concurrent collaboration activities - for example like the engineers working on the Co2 filter 
 * Chat - how else to communicate with the astronauts in real-time.
+
+![chat](./images/apollo13chat.jpg)
+
 * Document sharing - it's going to be vital to share documents, specifications, and collaborate upon them in real-time
 * Planner  - Task management is crucial in such a mission; users will get a chance to try out which work best. 
 
-
-
+![blackboard](./images/planner.jpg)
 
 * Whiteboard 
 
-![background](./images/blog_bg_4.jpg)
+![blackboard](./images/whiteboard.jpg)
 
- 
+* Forms something like this?
 
-* Forms
-
+![blackboard](./images/no.jpg)
 
 
 * Wiki -  What better method could there be for collaboratively capturing lessons learned as you have them. 
+
+![something like a wiki](./images/wiki.jpg)
+
+
 * We will make use of Microsoft streams to host clips of the film to set the scene 
 * Guest access so that manufacturers and the astronauts themselves can all communicate back to Nasa Houston.
 Using chats for private messages
