@@ -30,7 +30,7 @@ Everyone has done the training thing where they had to follow along with the ste
 
 * Whiteboard 
 
-![blackboard](./images/whiteboard.jpg)
+![blackboard](./images/whiteboard.png)
 
 * Forms something like this?
 
@@ -39,7 +39,7 @@ Everyone has done the training thing where they had to follow along with the ste
 
 * Wiki -  What better method could there be for collaboratively capturing lessons learned as you have them. 
 
-![something like a wiki](./images/wiki.jpg)
+![something like a wiki](./images/wiki.png)
 
 
 * We will make use of Microsoft streams to host clips of the film to set the scene 
