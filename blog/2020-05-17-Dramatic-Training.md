@@ -1,7 +1,7 @@
 ---
 title: Dramatic Team Training
 path: /dramatic-training
-date: 2020-05-16
+date: 2020-05-17
 summary:  You don't care to learn when there is no reason to care  
 tags: ['training', 'excitement','Apollo13']
 ---
@@ -28,6 +28,7 @@ Everyone has done the training thing where they had to follow along with the ste
 * Whiteboard 
 
 ![no](./images/no.jpg)
+
 
  
 
