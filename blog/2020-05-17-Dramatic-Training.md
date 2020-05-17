@@ -26,7 +26,7 @@ Everyone has done the training thing where they had to follow along with the ste
 * Document sharing - it's going to be vital to share documents, specifications, and collaborate upon them in real-time
 * Planner  - Task management is crucial in such a mission; users will get a chance to try out which work best. 
 
-![blackboard](./images/planner.jpg)
+![blackboard](./images/planner.png)
 
 * Whiteboard 
 
