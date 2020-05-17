@@ -17,10 +17,44 @@
     </div>
   </div>
 </section>
+   <section class="text-gray-700 body-font border-t border-gray-200">
+  <div class="container px-5 py-24 mx-auto">
+    <div class="flex flex-wrap w-full mb-20 flex-col items-center text-center">
+      <h1 id="products" class="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900">Solutions </h1>
+    <div class="flex flex-wrap -m-4">
+      <div class="xl:w-1/2 md:w-1/1 p-4">
+        <div class="border border-gray-300 p-6 rounded-lg">
+          <div class="w-10 h-10 inline-flex items-center justify-center rounded-full bg-indigo-100 text-indigo-500 mb-4">
+            <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-6 h-6" viewBox="0 0 24 24">
+              <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
+            </svg>
+          </div>
+          <h2 class="text-lg text-gray-900 font-medium title-font mb-2">Users tehcnology questions answered with curated video </h2>
+          <p class="leading-relaxed text-base">Ever wanted to know just how to do something but only managed to find the instructions for the old verion, well no more - we have a curated and constantly updated list of easily accessible videos that answer in 1 minute or less your question.</p>
+        </div>
+      </div>
+      <div class="xl:w-1/2 md:w-1/1 p-4">
+        <div class="border border-gray-300 p-6 rounded-lg">
+          <div class="w-10 h-10 inline-flex items-center justify-center rounded-full bg-indigo-100 text-indigo-500 mb-4">
+            <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-6 h-6" viewBox="0 0 24 24">
+              <circle cx="6" cy="6" r="3"></circle>
+              <circle cx="6" cy="18" r="3"></circle>
+              <path d="M20 4L8.12 15.88M14.47 14.48L20 20M8.12 8.12L12 12"></path>
+            </svg>
+          </div>
+          <h2 class="text-lg text-gray-900 font-medium title-font mb-2">Our Training and Masterclasses </h2>
+          <p class="leading-relaxed text-base"> Because if you have a question - you could just look it up on the web, our training is desigend to help you to realise your goals with new technology. </p>
+        </div>
+      </div>
+    </div>
+    </div>
+  </div>
+    </section>
+
     <section class="text-gray-700 body-font border-t border-gray-200">
   <div class="container px-5 py-24 mx-auto">
     <div class="flex flex-col text-center w-full mb-20">
-      <h1 class="sm:text-3xl text-2xl font-medium title-font text-gray-900">The Resources </h1>
+      <h1 class="sm:text-3xl text-2xl font-medium title-font text-gray-900">Our Resources </h1>
      <p class="mb-8 leading-relaxed">These are just some of the resources we draw upon to solve problems.</p>
          
     </div>
@@ -200,8 +234,14 @@
         <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
           <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/80x80/edf2f7/a5afbd">
           <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">Neville </h2>
-            <p class="text-gray-500">Founder</p>
+            <h2 class="text-gray-900 title-font font-medium">Neville - Founder </h2>
+            <p class="text-gray-500 text-xs">
+              <ul>
+                <li>Teacher, Communicator , Metaphor monger</li>
+                <li>Works at any height of government or business </li>
+                <li>Makes molehills out of mountains</li>
+              </ul>
+            </p>
           </div>
         </div>
       </div>
@@ -209,8 +249,13 @@
         <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
           <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/84x84/edf2f7/a5afbd">
           <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">Alex </h2>
-            <p class="text-gray-500">CTO</p>
+            <h2 class="text-gray-900 title-font font-medium">Alex - Solution Architect </h2>
+            <p class="text-gray-500 text-xs">
+            <ul>
+            <li>Ex-Professional Rugby player.</li>
+            <li>Works in every sector there is.</li>
+            <li>The hardest working guy in the enterprise.</li>
+            </ul></p> 
           </div>
         </div>
       </div>
@@ -218,8 +263,14 @@
         <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
           <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/88x88/edf2f7/a5afbd">
           <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">Jake </h2>
-            <p class="text-gray-500">Solutions</p>
+            <h2 class="text-gray-900 title-font font-medium">Jake - Business Architect</h2>
+            <p class="text-gray-500 text-xs">
+              <ul>
+              <li>PhD and MBA.</li>
+              <li>When we say business, we mean any business.</li>
+              <li>He's cutting edge - but with nice bedside manners.</li>
+              </ul>
+            </p>
           </div>
         </div>
       </div>
@@ -227,8 +278,13 @@
         <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
           <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/90x90/edf2f7/a5afbd">
           <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">Michelle </h2>
-            <p class="text-gray-500">Councillor</p>
+            <h2 class="text-gray-900 title-font font-medium">Michelle - Facilitator in Chief</h2>
+            <p class="text-gray-500 text-xs">
+              <ul>
+            <li>  Fluent in Spanish, English, Business and Human.</li>
+            <li>  Works the globe over, in businesses to make s**t real. </li>
+            <li>  Most likely to say the next thing you need to hear.</li> 
+              </ul></p>
           </div>
         </div>
       </div>
@@ -236,8 +292,15 @@
         <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
           <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/94x94/edf2f7/a5afbd">
           <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">Daniel </h2>
-            <p class="text-gray-500">Business Accessibility</p>
+            <h2 class="text-gray-900 title-font font-medium">Daniel - Business Access Accelerator  </h2>
+            <p class="text-gray-500 text-xs">
+              <ul>
+              <li>  Translates pain into healing requirements  </li>
+              <li>  Works all the ways round business and government</li>
+              <li>  He cares, and that's plenty.</li>
+                </ul>
+            
+            </p>
           </div>
         </div>
       </div>
@@ -245,8 +308,15 @@
         <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
           <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/98x98/edf2f7/a5afbd">
           <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">Victoria A</h2>
-            <p class="text-gray-500">Finance / Voice of Reason</p>
+            <h2 class="text-gray-900 title-font font-medium">Kim Project / Team lead</h2>
+            <p class="text-gray-500 text-xs">
+            <ul>
+            <li>Agile Multi-instrumentalist</li>
+            <li>Works in .gov, .com's and nuclear power stations</li>
+            <li>In situations political and not so political ask Kim</li>
+            </ul>
+
+            </p>
           </div>
         </div>
       </div>
