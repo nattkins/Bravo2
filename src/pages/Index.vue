@@ -200,7 +200,7 @@
         <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
           <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/80x80/edf2f7/a5afbd">
           <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">Neville A</h2>
+            <h2 class="text-gray-900 title-font font-medium">Neville </h2>
             <p class="text-gray-500">Founder</p>
           </div>
         </div>
@@ -209,7 +209,7 @@
         <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
           <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/84x84/edf2f7/a5afbd">
           <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">Alex T</h2>
+            <h2 class="text-gray-900 title-font font-medium">Alex </h2>
             <p class="text-gray-500">CTO</p>
           </div>
         </div>
@@ -218,7 +218,7 @@
         <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
           <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/88x88/edf2f7/a5afbd">
           <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">Jake H</h2>
+            <h2 class="text-gray-900 title-font font-medium">Jake </h2>
             <p class="text-gray-500">Solutions</p>
           </div>
         </div>
@@ -227,7 +227,7 @@
         <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
           <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/90x90/edf2f7/a5afbd">
           <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">Michelle M</h2>
+            <h2 class="text-gray-900 title-font font-medium">Michelle </h2>
             <p class="text-gray-500">Councillor</p>
           </div>
         </div>
@@ -236,7 +236,7 @@
         <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
           <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/94x94/edf2f7/a5afbd">
           <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">Daniel S</h2>
+            <h2 class="text-gray-900 title-font font-medium">Daniel </h2>
             <p class="text-gray-500">Business Accessibility</p>
           </div>
         </div>
