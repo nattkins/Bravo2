@@ -1,7 +1,11 @@
 ---
 title: Dramatic Team Training
-excerpt:  You don't care to learn when there is nothing to  care about 
+path: /dramatic-training
+date: 2020-05-16
+summary:  You don't care to learn when there is no reason to care  
+tags: ['training', 'excitement','Apollo13']
 ---
+
 
 We begin with an exciting and fun experience and a group of people. We will finish with people able to communicate, collaborate and use Office 365 technologies to solve real problems - hopefully without anyone thinking they have been training.
 
@@ -23,7 +27,8 @@ Everyone has done the training thing where they had to follow along with the ste
 
 * Whiteboard 
 
-![The problem presented on a blackboard](./images/no.jpg)
+![no](./images/no.jpg)
+
  
 
 * Forms
@@ -39,5 +44,3 @@ Scheduling a meeting and inviting attendees
 Sharing files
 Customizing channel tabs
 Using apps, bots, and connectors to add extra functionality
-
-
