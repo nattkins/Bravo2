@@ -46,10 +46,10 @@ export default [
     }
   },
   {
-    path: "/docs/accessibility-manifesto/",
+    path: "/docs/about-migrations/",
     component: () => import(/* webpackChunkName: "page--src--templates--documentation-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/templates/Documentation.vue"),
     meta: {
-      $vueRemark: () => import(/* webpackChunkName: "vue-remark--docs--accessibility-manifesto-md" */ "/Users/nattkins/Documents/github/Bravo2/docs/accessibility-manifesto.md")
+      $vueRemark: () => import(/* webpackChunkName: "vue-remark--docs--about-migrations-md" */ "/Users/nattkins/Documents/github/Bravo2/docs/about-migrations.md")
     }
   },
   {
@@ -60,15 +60,11 @@ export default [
     }
   },
   {
-    path: "/docs/about-migrations/",
+    path: "/docs/accessibility-manifesto/",
     component: () => import(/* webpackChunkName: "page--src--templates--documentation-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/templates/Documentation.vue"),
     meta: {
-      $vueRemark: () => import(/* webpackChunkName: "vue-remark--docs--about-migrations-md" */ "/Users/nattkins/Documents/github/Bravo2/docs/about-migrations.md")
+      $vueRemark: () => import(/* webpackChunkName: "vue-remark--docs--accessibility-manifesto-md" */ "/Users/nattkins/Documents/github/Bravo2/docs/accessibility-manifesto.md")
     }
-  },
-  {
-    path: "/blog/2020-05-17-d-training/",
-    component: () => import(/* webpackChunkName: "page--src--templates--post-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/templates/Post.vue")
   },
   {
     path: "/blog/:page(\\d+)?/",
@@ -80,6 +76,10 @@ export default [
   },
   {
     path: "/nintex-bad-ugly/",
+    component: () => import(/* webpackChunkName: "page--src--templates--post-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/templates/Post.vue")
+  },
+  {
+    path: "/dramatic-training/",
     component: () => import(/* webpackChunkName: "page--src--templates--post-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/templates/Post.vue")
   },
   {
@@ -97,7 +97,7 @@ export default [
   {
     name: "404",
     path: "/404/",
-    component: () => import(/* webpackChunkName: "page--node-modules--gridsome--app--pages--404-vue" */ "/Users/nattkins/Documents/github/Bravo2/node_modules/gridsome/app/pages/404.vue")
+    component: () => import(/* webpackChunkName: "page--src--pages--404-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/pages/404.vue")
   },
   {
     name: "home",
@@ -107,7 +107,7 @@ export default [
   {
     name: "*",
     path: "*",
-    component: () => import(/* webpackChunkName: "page--node-modules--gridsome--app--pages--404-vue" */ "/Users/nattkins/Documents/github/Bravo2/node_modules/gridsome/app/pages/404.vue")
+    component: () => import(/* webpackChunkName: "page--src--pages--404-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/pages/404.vue")
   }
 ]
 
