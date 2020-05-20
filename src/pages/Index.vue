@@ -29,8 +29,10 @@
               <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
             </svg>
           </div>
-          <h2 class="text-lg text-gray-900 font-medium title-font mb-2">Users tehcnology questions answered with curated video </h2>
-          <p class="leading-relaxed text-base">Ever wanted to know just how to do something but only managed to find the instructions for the old verion, well no more - we have a curated and constantly updated list of easily accessible videos that answer in 1 minute or less your question.</p>
+          <h2 class="text-lg text-gray-900 font-medium title-font mb-2">Just In Time Video Tips</h2>
+          <p class="leading-relaxed text-base ">So when you forget how to start a channel in Teams or how to invite a guest?
+       
+          </p>
         </div>
       </div>
       <div class="xl:w-1/2 md:w-1/1 p-4">
@@ -43,7 +45,8 @@
             </svg>
           </div>
           <h2 class="text-lg text-gray-900 font-medium title-font mb-2">Our Training and Masterclasses </h2>
-          <p class="leading-relaxed text-base"> Because if you have a question - you could just look it up on the web, our training is desigend to help you to realise your goals with new technology. </p>
+          <p class="leading-relaxed text-base">Because training the old way is boring we create experiences  </p>
+
         </div>
       </div>
     </div>
@@ -71,12 +74,12 @@
                 </div>
           <div class="flex-grow">
             <p class="leading-relaxed text-base">In the enterprise its Microsoft, if its websites then they will be static but also we're all about accessibility, ML, Web 3.0 and Security. </p>
-            <g-link to="/docs/digital-tech-portfolio/" class="mt-3 text-indigo-500 inline-flex items-center">Our skill Portfolio
+            <g-link to="/docs/digital-tech-portfolio/" class="min-w-full mt-3 text-indigo-500 inline-flex items-center">Our Technology Portfolio
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                 <path d="M5 12h14M12 5l7 7-7 7"></path>
               </svg>
             </g-link>
-            <g-link to="/docs/skills-matrix/" class="mt-3 text-indigo-500 inline-flex items-center">Skills Matrix
+            <g-link to="/docs/skills-matrix/" class="mt-3 min-w-full text-indigo-500 inline-flex items-center">Skills Matrix
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                 <path d="M5 12h14M12 5l7 7-7 7"></path>
               </svg>
@@ -97,12 +100,12 @@
           </div>
           <div class="flex-grow">
             <p class="leading-relaxed text-base">So that many hands can make light work remoately we use liberating structures and clean language.</p>
-            <g-link to="/docs/ways-to-work/"  class="mt-3 text-indigo-500 inline-flex items-center">Super Collaboration
+            <g-link to="/docs/ways-to-work/"  class="mt-3 min-w-full text-indigo-500 inline-flex items-center">Super Collaboration
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                 <path d="M5 12h14M12 5l7 7-7 7"></path>
               </svg>
-            </g-link>
-             <g-link to="/docs/how-we-work/"  class="mt-3 text-indigo-500 inline-flex items-center">Do Projects Like a Pro
+            </g-link><br>
+             <g-link to="/docs/how-we-work/"  class="mt-3 min-w-full text-indigo-500 inline-flex items-center">Do Projects Like a Pro
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                 <path d="M5 12h14M12 5l7 7-7 7"></path>
               </svg>
@@ -123,13 +126,13 @@
             <h2 class="text-gray-900 text-lg title-font font-medium">Our Miision</h2>
           </div>
           <div class="flex-grow">
-            <p class="leading-relaxed text-base">How are we to grasp the opportunities of the  </p>
-            <g-link to="/docs/our-mission/" class="mt-3 text-indigo-500 inline-flex items-center">Our Mission
+            <p class="leading-relaxed text-base"> To learn how we work and why we work the way we do, please read : </p>
+            <g-link to="/docs/our-mission/" class="mt-3 min-w-full text-indigo-500 inline-flex items-center">Our Mission
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                 <path d="M5 12h14M12 5l7 7-7 7"></path>
               </svg>
             </g-link>
-                        <g-link to="/docs/accessibility-manifesto/" class="mt-3 text-indigo-500 inline-flex items-center">Accessibility Manifesto
+                        <g-link to="/docs/accessibility-manifesto/" class="mt-3 min-w-full text-indigo-500 inline-flex items-center">Accessibility Manifesto
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                 <path d="M5 12h14M12 5l7 7-7 7"></path>
               </svg>
@@ -315,6 +318,83 @@
             <li>Works in .gov, .com's and nuclear power stations</li>
             <li>In situations political and not so political ask Kim</li>
             </ul>
+
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="text-gray-700 body-font border-t border-gray-200">
+  <div id="team" class="container px-5 py-24 mx-auto">
+    <div class="flex flex-col text-center w-full mb-20">
+      <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">What You Say</h1>
+     <p class="lg:w-2/3 mx-auto leading-relaxed text-base">Comments from our most recent remote empowerment workshop</p>
+
+    </div>
+    <div class="flex flex-wrap -m-2">
+      <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
+        <div class="h-full flex items-center bg-gray-200 border p-4 rounded-lg">
+          <div class="flex-grow">
+            <p class="text-gray-800 text-xs">
+            "...important to meet - breathe fresh air and learn about different perspectives"
+         <span class="text-gray-900 text-sm p-4">Roxana</span>
+ 
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
+        <div class="h-full flex items-center bg-gray-200 border p-4 rounded-lg">
+          <div class="flex-grow">
+            <p class="text-gray-700 text-xs">
+"...not a fast food workshop a very good process, so thank you very much"       
+<span class="text-gray-900 text-sm p-4">Mihai</span>
+         </p> 
+          </div>
+        </div>
+      </div>
+      <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
+        <div class="h-full flex items-center bg-gray-200 border p-4 rounded-lg">
+          <div class="flex-grow">
+            <p class="text-gray-800 text-xs">
+              "..we broke out of the bubble, really healthy, not only in our works hats and we tried to find a common language and forced ourselves out of our usual mindset"
+       <span class="text-gray-900 text-sm p-4" >Ruxandra</span>    
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
+        <div class="h-full flex items-center bg-gray-200 border p-4 rounded-lg">
+          <div class="flex-grow">
+            <p class="text-gray-800 text-xs">
+              "...it is very important to understand the value of the people to understand what they like and get their attention."
+               <span class="text-gray-900 text-sm p-4" >Marius</span>    
+      
+         </p>
+          </div>
+        </div>
+      </div>
+      <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
+        <div class="h-full flex items-center bg-gray-200 border p-4 rounded-lg">
+          <div class="flex-grow">
+            <p class="text-gray-800 text-xs">
+            "...interesting to see how people visualize and have a perception of their workplace"             
+            <span class="text-gray-900 text-sm p-4" > Cristina</span>    
+      
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
+        <div class="h-full flex items-center bg-gray-200 border p-4 rounded-lg">
+          <div class="flex-grow">
+            <p class="text-gray-800 text-xs">
+            "People were tired after the work week and I think the contactful, sharing session was honestly appreciated"
+      <span class="text-gray-900 text-sm p-4" > Andreaa</span>    
+      
+       
 
             </p>
           </div>

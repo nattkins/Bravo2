@@ -1,22 +1,22 @@
 ---
-title: Dramatic Team Training
-path: /dramatic-training
+title: Dramatic Team Adoption Level 1
+path: /dramatic-adoption-level1
 date: 2020-05-17
 summary:  You don't care to learn when there is no reason to care  
-tags: ['training', 'excitement','Apollo13']
+tags: ['adoption', 'excitement','Apollo13']
 ---
 
 ![problem](./images/problem.jpg)
  
-We begin with an exciting and fun experience and a group of people. We will finish with people able to communicate, collaborate and use Office 365 technologies to solve real problems - hopefully without anyone thinking they have been training.
+We begin with an exciting and fun experience and a group of people. We will finish with people able to communicate, collaborate and use Office 365 technologies to solve real problems - hopefully without anyone thinking they have been doing training.
 
-Houston we have a problem - but we have the solution to training!
+Houston we have a problem - but we have the solution to end-user end-user adoption!
 
 With the Apollo 13 mission as a backdrop, users go through an exciting experience where they will learn the fundamentals of teams, planner and document collaboration. We have built the content around those things we know are the things that users most often ask about.
 
-Our innovative approach to training 
+Our innovative approach to end-user adoption 
 
-Everyone has done the training thing where they had to follow along with the steps and wondered to themselves - why? Now each function that. 
+Everyone has done the end-user adoption thing where they had to follow along with the steps and wondered to themselves - why? Now each function that. 
 
 * Channels to manage the different concurrent collaboration activities - for example like the engineers working on the Co2 filter 
 * Chat - how else to communicate with the astronauts in real-time.
