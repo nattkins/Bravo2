@@ -46,13 +46,6 @@ export default [
     }
   },
   {
-    path: "/docs/accessibility-manifesto/",
-    component: () => import(/* webpackChunkName: "page--src--templates--documentation-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/templates/Documentation.vue"),
-    meta: {
-      $vueRemark: () => import(/* webpackChunkName: "vue-remark--docs--accessibility-manifesto-md" */ "/Users/nattkins/Documents/github/Bravo2/docs/accessibility-manifesto.md")
-    }
-  },
-  {
     path: "/docs/about-migrations/",
     component: () => import(/* webpackChunkName: "page--src--templates--documentation-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/templates/Documentation.vue"),
     meta: {
@@ -67,8 +60,19 @@ export default [
     }
   },
   {
+    path: "/docs/accessibility-manifesto/",
+    component: () => import(/* webpackChunkName: "page--src--templates--documentation-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/templates/Documentation.vue"),
+    meta: {
+      $vueRemark: () => import(/* webpackChunkName: "vue-remark--docs--accessibility-manifesto-md" */ "/Users/nattkins/Documents/github/Bravo2/docs/accessibility-manifesto.md")
+    }
+  },
+  {
     path: "/blog/:page(\\d+)?/",
     component: () => import(/* webpackChunkName: "page--src--pages--blog-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/pages/Blog.vue")
+  },
+  {
+    path: "/trust-never-sleeps/",
+    component: () => import(/* webpackChunkName: "page--src--templates--post-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/templates/Post.vue")
   },
   {
     path: "/planner-saved-my-life/",

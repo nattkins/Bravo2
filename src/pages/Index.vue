@@ -22,20 +22,20 @@
     <div class="flex flex-wrap w-full mb-20 flex-col items-center text-center">
       <h1 id="products" class="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900">Solutions </h1>
     <div class="flex flex-wrap -m-4">
-      <div class="xl:w-1/2 md:w-1/1 p-4">
+      <div class="xl:w-1/3 md:w-1/1 p-4">
         <div class="border border-gray-300 p-6 rounded-lg">
           <div class="w-10 h-10 inline-flex items-center justify-center rounded-full bg-indigo-100 text-indigo-500 mb-4">
             <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-6 h-6" viewBox="0 0 24 24">
               <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
             </svg>
           </div>
-          <h2 class="text-lg text-gray-900 font-medium title-font mb-2">Just In Time Video Tips</h2>
-          <p class="leading-relaxed text-base ">So when you forget how to start a channel in Teams or how to invite a guest?
+          <h2 class="text-lg  text-gray-900 font-medium title-font mb-2">Just In Time Video App</h2>
+          <p class="leading-relaxed text-justify">All the help you need in bite-sized pieces and kept up to date - because the web has videos, lots of long videos, but you only need 30 seconds to remind you how to create a private channel, or how to search chat, and what happens when a video gets out of date - well - we update it!
        
           </p>
         </div>
       </div>
-      <div class="xl:w-1/2 md:w-1/1 p-4">
+      <div class="xl:w-1/3 md:w-1/1 p-4">
         <div class="border border-gray-300 p-6 rounded-lg">
           <div class="w-10 h-10 inline-flex items-center justify-center rounded-full bg-indigo-100 text-indigo-500 mb-4">
             <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-6 h-6" viewBox="0 0 24 24">
@@ -44,9 +44,27 @@
               <path d="M20 4L8.12 15.88M14.47 14.48L20 20M8.12 8.12L12 12"></path>
             </svg>
           </div>
-          <h2 class="text-lg text-gray-900 font-medium title-font mb-2">Our Microsoft Teams Adoption Masterclasses </h2>
-          <p class="leading-relaxed text-base">Because training the old way is sort of forgetteable so we give you a memorable dramatic experience and you end up learning Teams along the way  </p>
-            <g-link to="/teams-adoption-level-one/" class="min-w-full mt-3 text-indigo-500 inline-flex items-center">Our Level 1 Course 
+          <h2 class="text-lg text-gray-900 font-medium title-font mb-2">Our Adoption Masterclasses </h2>
+          <p class="leading-relaxed text-base text-justify">Because training the old way is sort of forgetteable so we give you a memorable dramatic experience and you end up learning everything you need along the way.</p>
+            <g-link to="/teams-adoption-level-one/" class="min-w-full mt-3 text-indigo-500 inline-flex items-center">Our Immersive Microsoft Teams Training
+              <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
+                <path d="M5 12h14M12 5l7 7-7 7"></path>
+              </svg>
+            </g-link>
+        </div>
+      </div>
+       <div class="xl:w-1/3 md:w-1/1 p-4">
+        <div class="border border-gray-300 p-6 rounded-lg">
+          <div class="w-10 h-10 inline-flex items-center justify-center rounded-full bg-indigo-100 text-indigo-500 mb-4">
+            <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-6 h-6" viewBox="0 0 24 24">
+              <circle cx="6" cy="6" r="3"></circle>
+              <circle cx="6" cy="18" r="3"></circle>
+              <path d="M20 4L8.12 15.88M14.47 14.48L20 20M8.12 8.12L12 12"></path>
+            </svg>
+          </div>
+          <h2 class="text-lg text-gray-900 font-medium title-font mb-2">Accessibility Accelerator </h2>
+          <p class="leading-relaxed text-base text-justify">It has never been easy for everyone to access technology equitably, there are still far too many websites and services that don't work for any but the most digital of natives. But now - with the addition of isolation, inequitable digital access, and mental health challenges, our new, wholly digital world, can look pretty scary.  We offer a remote mentoring solution that enables users to use their expertise, and our technical know-how to access ways around accessibility issues. </p>
+            <g-link to="/teams-adoption-level-one/" class="min-w-full mt-3 text-indigo-500 inline-flex items-center">Our Immersive Microsoft Teams Training
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                 <path d="M5 12h14M12 5l7 7-7 7"></path>
               </svg>
@@ -420,7 +438,7 @@
     <div class="overflow-x-hidden">
       <div  class="contact-me bg-background-secondary pt-16">
         <div class="container-inner mx-auto text-xl pb-4 relative">
-          <h2 class="font-bold mb-6" id="reachout">Reach Out</h2>
+          <h2 class="font-bold mb-6" id="reachout">Contact Us</h2>
 
           <p class="mb-12">Let us know what you think, ask us how we can help or just say hello</p>
 
