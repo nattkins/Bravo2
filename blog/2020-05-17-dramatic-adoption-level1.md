@@ -7,7 +7,7 @@ tags: ['adoption', 'excitement','Apollo13']
 ---
 
 ## Training failing 
-We have thought for a while now that, training is a fail,  and that everything wrong with training will be worse when done remotely. 
+We have had the thought for a while now that training has failed, and that everything wrong with training will be worse when done remotely. 
 
 ## Have you ever had the thought that 
 * Training is too often either obvious or irrelevant, and remotely people can look it up on YouTube
