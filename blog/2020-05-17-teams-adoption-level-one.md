@@ -1,8 +1,8 @@
 ---
-title: Immersive Team Adoption Level 1
-path: /dramatic-adoption-level1
+title: Immersive Team Adoption Level one
+path: /Teams-adoption-level-one
 date: 2020-05-17
-summary:  You don't care to learn when there is no reason to care  
+summary:  Come for the experience and leave with the learning  
 tags: ['adoption', 'excitement','Apollo13']
 ---
 

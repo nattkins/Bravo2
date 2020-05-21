@@ -46,17 +46,17 @@ export default [
     }
   },
   {
-    path: "/docs/accessibility-manifesto/",
-    component: () => import(/* webpackChunkName: "page--src--templates--documentation-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/templates/Documentation.vue"),
-    meta: {
-      $vueRemark: () => import(/* webpackChunkName: "vue-remark--docs--accessibility-manifesto-md" */ "/Users/nattkins/Documents/github/Bravo2/docs/accessibility-manifesto.md")
-    }
-  },
-  {
     path: "/docs/about-migrations/",
     component: () => import(/* webpackChunkName: "page--src--templates--documentation-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/templates/Documentation.vue"),
     meta: {
       $vueRemark: () => import(/* webpackChunkName: "vue-remark--docs--about-migrations-md" */ "/Users/nattkins/Documents/github/Bravo2/docs/about-migrations.md")
+    }
+  },
+  {
+    path: "/docs/accessibility-manifesto/",
+    component: () => import(/* webpackChunkName: "page--src--templates--documentation-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/templates/Documentation.vue"),
+    meta: {
+      $vueRemark: () => import(/* webpackChunkName: "vue-remark--docs--accessibility-manifesto-md" */ "/Users/nattkins/Documents/github/Bravo2/docs/accessibility-manifesto.md")
     }
   },
   {
@@ -79,15 +79,15 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--post-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/templates/Post.vue")
   },
   {
-    path: "/dramatic-adoption-level1/",
-    component: () => import(/* webpackChunkName: "page--src--templates--post-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/templates/Post.vue")
-  },
-  {
     path: "/docs/",
     component: () => import(/* webpackChunkName: "page--src--pages--docs-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/pages/Docs.vue")
   },
   {
     path: "/branding-now/",
+    component: () => import(/* webpackChunkName: "page--src--templates--post-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/templates/Post.vue")
+  },
+  {
+    path: "/Teams-adoption-level-one/",
     component: () => import(/* webpackChunkName: "page--src--templates--post-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/templates/Post.vue")
   },
   {

@@ -44,9 +44,13 @@
               <path d="M20 4L8.12 15.88M14.47 14.48L20 20M8.12 8.12L12 12"></path>
             </svg>
           </div>
-          <h2 class="text-lg text-gray-900 font-medium title-font mb-2">Our Training and Masterclasses </h2>
-          <p class="leading-relaxed text-base">Because training the old way is boring we create experiences  </p>
-
+          <h2 class="text-lg text-gray-900 font-medium title-font mb-2">Our Microsoft Teams Adoption Masterclasses </h2>
+          <p class="leading-relaxed text-base">Because training the old way is sort of forgetteable so we give you a memorable dramatic experience and you end up learning Teams along the way  </p>
+            <g-link to="/teams-adoption-level-one/" class="min-w-full mt-3 text-indigo-500 inline-flex items-center">Our Level 1 Course 
+              <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
+                <path d="M5 12h14M12 5l7 7-7 7"></path>
+              </svg>
+            </g-link>
         </div>
       </div>
     </div>
