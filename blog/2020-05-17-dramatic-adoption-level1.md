@@ -54,6 +54,3 @@ Here is a list of course content - to show you how we weave together the learnin
 * We will also make use of Microsoft streams to host clips of the film to set the scene 
 * Guest access so that manufacturers and journalists can communicate.
 
-I hope you are as excited as we are by this as we are like they say in the movie:
-
-[![Work the problem](http://img.youtube.com/vi/Z0h2Wk6-C_I/0.jpg)](http://www.youtube.com/watch?v=Z0h2Wk6-C_I "Work the problem")
