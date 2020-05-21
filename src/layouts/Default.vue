@@ -22,22 +22,23 @@
             <theme-switcher :theme="theme" @themeChanged="updateTheme" />
           </li> -->
           <li>
+            <g-link to="/docs" class="text-copy-primary hover:text-gray-600">About Us</g-link>
+          </li>
+          <li>
             <a v-if="$route.path === '/'" href="/#projects" v-scroll-to="'#projects'" class="text-copy-primary hover:text-gray-600">Projects</a>
             <g-link v-else to="/#projects" class="text-copy-primary hover:text-gray-600">Projects</g-link>
           </li>
           <li>
             <a v-if="$route.path === '/'" href="/#team" v-scroll-to="'#team'" class="text-copy-primary hover:text-gray-600">Team</a>
-            <g-link v-else to="/#about" class="text-copy-primary hover:text-gray-600">About</g-link>
+            <g-link v-else to="/#about" class="text-copy-primary hover:text-gray-600">The Team</g-link>
           </li>
-          <li>
-            <g-link to="/docs" class="text-copy-primary hover:text-gray-600">Our Resources</g-link>
-          </li>
+          
           <li>
             <g-link to="/blog" class="text-copy-primary hover:text-gray-600">Blog</g-link>
           </li>
             <li>
             <a v-if="$route.path === '/'" href="/#reachout" v-scroll-to="'#reachout'" class="text-copy-primary hover:text-gray-600">Reach Out</a>
-            <g-link v-else to="/#reachout" class="text-copy-primary hover:text-gray-600">Reach Out</g-link>
+            <g-link v-else to="/#reachout" class="text-copy-primary hover:text-gray-600">Contact Us</g-link>
           </li>
         </ul>
       </nav>

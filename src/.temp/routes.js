@@ -46,17 +46,17 @@ export default [
     }
   },
   {
-    path: "/docs/about-migrations/",
-    component: () => import(/* webpackChunkName: "page--src--templates--documentation-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/templates/Documentation.vue"),
-    meta: {
-      $vueRemark: () => import(/* webpackChunkName: "vue-remark--docs--about-migrations-md" */ "/Users/nattkins/Documents/github/Bravo2/docs/about-migrations.md")
-    }
-  },
-  {
     path: "/docs/accessibility-manifesto/",
     component: () => import(/* webpackChunkName: "page--src--templates--documentation-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/templates/Documentation.vue"),
     meta: {
       $vueRemark: () => import(/* webpackChunkName: "vue-remark--docs--accessibility-manifesto-md" */ "/Users/nattkins/Documents/github/Bravo2/docs/accessibility-manifesto.md")
+    }
+  },
+  {
+    path: "/docs/about-migrations/",
+    component: () => import(/* webpackChunkName: "page--src--templates--documentation-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/templates/Documentation.vue"),
+    meta: {
+      $vueRemark: () => import(/* webpackChunkName: "vue-remark--docs--about-migrations-md" */ "/Users/nattkins/Documents/github/Bravo2/docs/about-migrations.md")
     }
   },
   {
