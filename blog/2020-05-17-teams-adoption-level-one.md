@@ -6,21 +6,21 @@ summary:  Come for the experience and leave with the learning
 tags: ['adoption', 'excitement','Apollo13']
 ---
 
-## Training failing 
-We have had the thought for a while now that training has failed, and that everything wrong with training will be worse when done remotely. 
+## Is Your IT Training Failing?
+We all know that a lot of IT training fails in its objectives, and the problems only increase when we are forced to switch to remote working.
+Have you ever considered…
+*.	…that training is too often either obvious or irrelevant? When people are working remotely, they can just as easily look things up on YouTube.
+*.	…that training is seldom memorable or engaging? Remote learning is all 'on the screen', and there is often very little to capture people’s attention.
+*.	…that training usually offers only instruction, with little reasoning behind it? Do this remotely, and there is nothing to stop people getting distracted by other online tasks instead.
+Effective remote working is more necessary today than ever before. So let's fix this!
 
-## Have you ever had the thought that 
-* Training is too often either obvious or irrelevant, and remotely people can look it up on YouTube
-* Training often fails to be memorable- remote learning is all 'on the screen', so there is even less to remember, which can result in less being remembered.
-* Training is boring - click this click that, something happens or doesn't - with no real reason why. Do this remotely, and there is nothing to stop people tuning out and doing their email.
+## Adoption, not Training
+We provide an immersive adoption experience; where groups of people experience a dramatic scenario and acquire new ways of working as part of a gripping narrative.
 
-So let's fix this because failure to work productively remotely is not really working at all.
+## How do we adopt Microsoft Teams?
+We use the well-known story of the Apollo 13 mission (the one where the astronaut says "Houston, we have a problem!") This allows us to focus on helping users with the things they find most challenging, as we weave the learning goals into a memorable and engaging real-time situations.
 
-## For a start lets not do training its adoption
-
-We provide an immersive adoption experience; where groups of people enter a  immersive dramatic scenario and acquire new ways of working as part of an engaging story. 
-
-## So how do you adopt Microsoft Teams?
+Using the mission as a background scenario, users get to learn the fundamentals of Microsoft Teams, Microsoft Planner and Document Sharing in an active and collaborative way. 
 
 We use the story of the Apollo 13 mission, its the one where the astronaut says "Houston we have a problem."
 
