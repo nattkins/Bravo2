@@ -30,7 +30,7 @@
             </svg>
           </div>
           <h2 class="text-lg  text-gray-900 font-medium title-font mb-2">Just In Time Video App</h2>
-          <p class="leading-relaxed text-justify">All the help you need in bite-sized pieces and kept up to date - because the web has videos, lots of long videos, but you only need 30 seconds to remind you how to create a private channel, or how to search chat, and what happens when a video gets out of date - well - we update it!
+          <p class="leading-relaxed text-justify">All the help you need in bite-sized pieces and kept up to date - because the web has videos, lots of long videos, but you only need 30 seconds to remind you how to create a private channel, or how to search chat, and because technology changes all the time, we update the videos when it does
        
           </p>
         </div>
@@ -64,7 +64,7 @@
           </div>
           <h2 class="text-lg text-gray-900 font-medium title-font mb-2">Accessibility Accelerator </h2>
           <p class="leading-relaxed text-base text-justify">It has never been easy for everyone to access technology equitably, there are still far too many websites and services that don't work for any but the most digital of natives. But now - with the addition of isolation, inequitable digital access, and mental health challenges, our new, wholly digital world, can look pretty scary.  We offer a remote mentoring solution that enables users to use their expertise, and our technical know-how to access ways around accessibility issues. </p>
-            <g-link to="/teams-adoption-level-one/" class="min-w-full mt-3 text-indigo-500 inline-flex items-center">Our Immersive Microsoft Teams Training
+            <g-link to="/docs/accessibility-manifesto/" class="min-w-full mt-3 text-indigo-500 inline-flex items-center">Our Accessibility Approach
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                 <path d="M5 12h14M12 5l7 7-7 7"></path>
               </svg>
