@@ -17,7 +17,7 @@ Effective remote working is more necessary today than ever before. So let's fix 
 ## Adoption, not Training
 We provide an immersive adoption experience; where groups of people experience a dramatic scenario and acquire new ways of working as part of a gripping narrative.
 
-## How do we adopt Microsoft Teams?
+##How do we adopt Microsoft Teams?
 We use the well-known story of the Apollo 13 mission (the one where the astronaut says "Houston, we have a problem!") This allows us to focus on helping users with the things they find most challenging, as we weave the learning goals into a memorable and engaging real-time situations.
 
 Using the mission as a background scenario, users get to learn the fundamentals of Microsoft Teams, Microsoft Planner and Document Sharing in an active and collaborative way. 
