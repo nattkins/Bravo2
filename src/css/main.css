@@ -25,7 +25,7 @@
   background: #f0fff4;
 }
 
-.theme-dark .markdown-body {
+/* .theme-dark .markdown-body {
     color: #24292e;
 }
 
@@ -56,7 +56,7 @@
 
 .theme-dark nav .active {
     @apply border-white border-b;
-}
+} */
 
 .content-wrapper {
   transition: background-color .25s;
