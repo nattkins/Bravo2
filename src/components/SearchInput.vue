@@ -6,7 +6,7 @@
       <input
         type="text"
         placeholder="Search (Press  &quot;/&quot; to focus)"
-        class="bg-background-form border border-gray-500 rounded-full px-4 pl-10 py-2 outline-none focus:border-gold-500 w-80"
+        class="bg-white border border-gray-500 rounded-full px-4 pl-10 py-2 outline-none focus:border-gold-500 w-80"
         v-model="query"
         @input="softReset"
         @keyup="performSearch"
@@ -38,7 +38,7 @@
             :key="index"
             :href="post.item.path"
             @click="reset"
-            class="bg-background-form border-b border-gray-400 text-xl cursor-pointer p-4 search-hover"
+            class="white border-b border-gray-400 text-xl cursor-pointer p-4 search-hover"
             :class="{ 'search-highlighted' : index === highlightedIndex }"
           >
             {{ post.item.title }}
@@ -46,7 +46,7 @@
             <span class="block font-normal text-copy-primary text-sm my-1">{{ post.item.summary }}</span>
           </a>
 
-          <div v-if="results.length === 0" class="bg-background-form font-normal w-full border-b cursor-pointer p-4">
+          <div v-if="results.length === 0" class="bg-white font-normal w-full border-b cursor-pointer p-4">
             <p class="my-0">No results for '<strong>{{ query }}</strong>'</p>
           </div>
         </div>
