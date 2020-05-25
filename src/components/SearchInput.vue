@@ -38,7 +38,7 @@
             :key="index"
             :href="post.item.path"
             @click="reset"
-            class="white border-b border-gray-400 text-xl cursor-pointer p-4 search-hover"
+            class="bg-white border-b border-gray-400 text-xl cursor-pointer p-4 search-hover"
             :class="{ 'search-highlighted' : index === highlightedIndex }"
           >
             {{ post.item.title }}

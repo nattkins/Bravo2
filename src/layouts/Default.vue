@@ -16,9 +16,9 @@
         >
           <li class="mb-6 lg:mb-0">
             <search-input />
-          </li>
+          <!-- </li>
             <theme-switcher :theme="light" @themeChanged="updateTheme" />
-          </li>
+          </li> -->
           <li>
             <g-link to="/docs" class="text-copy-primary hover:text-gray-600">About Us</g-link>
           </li>

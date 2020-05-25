@@ -104,6 +104,10 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--pages--404-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/pages/404.vue")
   },
   {
+    path: "/JITIWIKI/",
+    component: () => import(/* webpackChunkName: "page--src--templates--post-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/templates/Post.vue")
+  },
+  {
     name: "home",
     path: "/",
     component: () => import(/* webpackChunkName: "page--src--pages--index-vue" */ "/Users/nattkins/Documents/github/Bravo2/src/pages/Index.vue")

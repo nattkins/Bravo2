@@ -9,7 +9,7 @@
   --bg-background-secondary: #f7fafc;
   --bg-background-tertiary: #e2e8f0;
 
-  --bg-background-form: white;
+  --bg-background-form: #ffffff !important;
 
   --text-copy-primary: #2d3748;
   --text-copy-secondary: #4a5568;
@@ -18,14 +18,14 @@
 }
 
 .theme-light .search-highlighted {
-  background: #f0fff4;
+  background: #FFFBE6;
 }
 
 .theme-light .search-hover:hover {
-  background: #f0fff4;
+  background: #FFFBE6;
 }
 
-/* .theme-dark .markdown-body {
+.theme-dark .markdown-body {
     color: #24292e;
 }
 
@@ -56,7 +56,7 @@
 
 .theme-dark nav .active {
     @apply border-white border-b;
-} */
+}
 
 .content-wrapper {
   transition: background-color .25s;

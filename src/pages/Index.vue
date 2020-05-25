@@ -44,8 +44,8 @@
               <path d="M20 4L8.12 15.88M14.47 14.48L20 20M8.12 8.12L12 12"></path>
             </svg>
           </div>
-          <h2 class="text-lg text-gray-900 font-medium title-font mb-2">Our Adoption Masterclasses </h2>
-          <p class="leading-relaxed text-base text-justify">Because training the old way is sort of forgetteable so we give you a memorable dramatic experience and you end up learning everything you need along the way.</p>
+          <h2 class="text-lg text-gray-900 font-medium title-font mb-2">Our IT Adoption and Training </h2>
+          <p class="leading-relaxed text-base text-justify">Because training the old way could quickly become forgettable, and training delivered online is rarely more engaging than real life - we have a new, more engaging approach. We provide students with a chance to experience a memorable dramatic experience, and they end up learning not just what teams can do, but also they have memorably used Teams.</p>
             <g-link to="/teams-adoption-level-one/" class="min-w-full mt-3 text-indigo-500 inline-flex items-center">Our Immersive Microsoft Teams Training
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                 <path d="M5 12h14M12 5l7 7-7 7"></path>
@@ -63,7 +63,7 @@
             </svg>
           </div>
           <h2 class="text-lg text-gray-900 font-medium title-font mb-2">Accessibility Accelerator </h2>
-          <p class="leading-relaxed text-base text-justify">It has never been easy for everyone to access technology equitably, there are still far too many websites and services that don't work for any but the most digital of natives. But now - with the addition of isolation, inequitable digital access, and mental health challenges, our new, wholly digital world, can look pretty scary.  We offer a remote mentoring solution that enables users to use their expertise, and our technical know-how to access ways around accessibility issues. </p>
+          <p class="leading-relaxed text-base text-justify">It has never been easy for everyone to access technology equitably, and now - with the addition of isolation, inequitable digital access, and mental health challenges, our new, wholly digital world, can look pretty scary.  We offer a remote mentoring solution that enables users to use their expertise, and our technical know-how to access ways around accessibility issues. </p>
             <g-link to="/docs/accessibility-manifesto/" class="min-w-full mt-3 text-indigo-500 inline-flex items-center">Our Accessibility Approach
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                 <path d="M5 12h14M12 5l7 7-7 7"></path>

@@ -35,8 +35,8 @@ module.exports = {
 
       transparent: 'transparent',
 
-      black: '#000',
-      white: '#fff',
+      'black': '#000',
+      'white': '#fff',
 
       'indigo': {
         100: '#ECEBF0',
