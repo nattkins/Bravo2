@@ -31,7 +31,11 @@
           </div>
           <h2 class="text-lg  text-gray-900 font-medium title-font mb-2">Just In Time Video App</h2>
           <p class="leading-relaxed text-justify">All the help you need in bite-sized pieces and kept up to date - because the web has videos, lots of long videos, but you only need 30 seconds to remind you how to create a private channel, or how to search chat, and because technology changes all the time, we update the videos when it does
-       
+        <g-link to="/JITIWIKI/" class="min-w-full mt-3 text-indigo-500 inline-flex items-center">Take a look at a demo
+              <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
+                <path d="M5 12h14M12 5l7 7-7 7"></path>
+              </svg>
+            </g-link>
           </p>
         </div>
       </div>
@@ -57,9 +61,12 @@
         <div class="border border-gray-300 p-6 rounded-lg">
           <div class="w-10 h-10 inline-flex items-center justify-center rounded-full bg-indigo-100 text-indigo-500 mb-4">
             <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-6 h-6" viewBox="0 0 24 24">
-              <circle cx="6" cy="6" r="3"></circle>
+              <!-- <circle cx="6" cy="6" r="3"></circle>
               <circle cx="6" cy="18" r="3"></circle>
-              <path d="M20 4L8.12 15.88M14.47 14.48L20 20M8.12 8.12L12 12"></path>
+            <path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2"></path> -->
+            <path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2"></path>
+                <circle cx="12" cy="7" r="4"></circle>
+
             </svg>
           </div>
           <h2 class="text-lg text-gray-900 font-medium title-font mb-2">Accessibility Accelerator </h2>
